@@ -3,7 +3,6 @@
 I am Md. Samirul Alam. I am an undergrad CSE student at Khulna University,
 Bangladesh, I am an enthusiastic developer as well as a problem
 solver.
-
 <div style="display: flex;">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirulAlam&show_icons=true&theme=dracula)
