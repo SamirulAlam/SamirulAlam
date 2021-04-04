@@ -4,7 +4,7 @@ I am Md. Samirul Alam. I am an undergrad CSE student at Khulna University,
 Bangladesh, I am an enthusiastic developer as well as a problem
 solver.
 
-<a href="https://github.com/SamirulAlam/github-readme-stats">
+<a href="https://github.com/SamirulAlam/github-readme-stats" style="padding-right:10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirulAlam&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/SamirulAlam/convoychat">
