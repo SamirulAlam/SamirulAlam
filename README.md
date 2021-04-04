@@ -3,13 +3,13 @@
 I am Md. Samirul Alam. I am an undergrad CSE student at Khulna University,
 Bangladesh, I am an enthusiastic developer as well as a problem
 solver.
-<div style="display: flex;">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirulAlam&show_icons=true&theme=dracula)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirulAlam)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div
+<a href="https://github.com/SamirulAlam/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirulAlam&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/SamirulAlam/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirulAlam" />
+</a>
 
 <!--
 **SamirulAlam/SamirulAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
