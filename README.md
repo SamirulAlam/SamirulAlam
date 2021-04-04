@@ -5,9 +5,11 @@ Bangladesh, I am an enthusiastic developer as well as a problem
 solver.
 
 <div style="display: flex;">
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirulAlam&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirulAlam)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirulAlam)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div
 
 <!--
